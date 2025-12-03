@@ -12,7 +12,7 @@ I performed:
 
 - **Data Cleaning & Preprocessing** using Python  
 - **Exploratory Data Analysis (EDA)** in Python  
-- **Business Insights & SQL Queries** using PostgreSQL  
+- **Business Insights & SQL Queries** using PostgreSQL 
 - **Interactive Visualization Dashboard** using Power BI  
 
 
